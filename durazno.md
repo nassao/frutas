@@ -2,4 +2,4 @@
 
 ## Descripción
 
-El durazno es muy rico... coman durazno
+El durazno es rico... coman duraznos 
